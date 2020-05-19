@@ -340,3 +340,4 @@ Use a `HAVING COUNT(*) > 1` clause to only show ratings with multiple movies sho
 
 Let's make our movie list more child-friendly. Delete all entries that have a rating of R. 
 Remember to record your query in `script.sql`.
+# SQLPRACTICE
